@@ -23,10 +23,11 @@ MDT 프레임워크 서버 설치를 통해 운영되는 모듈을 다음과 같
 ### 설치과정
  1. mdt-manager가 설치된 디렉토리 ($Home/mdt/mdt-manager)로 이동한다
  2. Text editor를 사용하여 ‘application.yml’ 파일을 열어 필요한 부분을 설정한다.
-	 1.  ‘server’ 항목의 ‘host’ 부분을 MDT 프레임워크 서버가 설치된 호스트 IP 주소를 설정한다.
+	 1.  ‘server’ 항목의 ‘host’ 부분을 MDT 프레임워크 서버가 설치된 호스트 IP 주소를 설정한다.![sdfdsfsdfsdf](https://github.com/kwlee0220/mdt-doc/blob/master/figures/code.png?raw=true)
+	 
 	 2. (Optional) ‘server’ 항목의 ‘port’부분을 MDT 프레임워크 서버가 구동될 때 사용할 소켓 포트 번호를 설정한다. 특별한 이유가 있지 않는 경우 현재 기본 값인 12985를 사용하는 것을 권장한다.
 	 3. ‘rootDir’ 항목에 MDT 프레임워크 SW가 설치된 최상위 디렉토리 경로명을 설정한다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgzMDE0MTNdfQ==
+eyJoaXN0b3J5IjpbLTIxMzc1MTk4MjZdfQ==
 -->
